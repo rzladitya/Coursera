@@ -4,7 +4,7 @@ Selamat datang di repositori ini! Repositori ini berisi kumpulan-kumpulan kursus
 
 ## Daftar Kursus
 
-- [Nama Kursus 1](link_ke_kursus1)
+- [IBM Data Engineering Professional](https://github.com/rzladitya/Coursera/tree/main/IBM%20Data%20Engineering%20Professional)
 - [Nama Kursus 2](link_ke_kursus2)
 - [Nama Kursus 3](link_ke_kursus3)
 
