@@ -9,7 +9,7 @@ Selamat datang di repositori ini! Repositori ini berisi kumpulan-kumpulan kursus
 - [Subkursus 1.2](link_ke_subkursus1.2)
 - [Subkursus 1.3](link_ke_subkursus1.3)
 
-### Kursus 2: Nama Kursus 2
+### Machine Learning Specialization
 - [Subkursus 2.1](link_ke_subkursus2.1)
 - [Subkursus 2.2](link_ke_subkursus2.2)
 
