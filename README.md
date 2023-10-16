@@ -4,8 +4,8 @@ Selamat datang di repositori ini! Repositori ini berisi kumpulan-kumpulan kursus
 
 ## Daftar Kursus
 
-### Kursus 1: Nama Kursus 1
-- [Subkursus 1.1](link_ke_subkursus1.1)
+### IBM Data Engineering Professional
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://github.com/rzladitya/Coursera/tree/07376f501431363556d1ce74761c909375ba28b4/IBM%20Data%20Engineering%20Professional/hands-on-introduction-to-linux-commands-and-shell-scripting)
 - [Subkursus 1.2](link_ke_subkursus1.2)
 - [Subkursus 1.3](link_ke_subkursus1.3)
 
