@@ -77,12 +77,12 @@ Selamat datang di repositori ini! Repositori ini berisi kumpulan-kumpulan kursus
       - [Programming Assignment](https://github.com/rzladitya/Coursera/tree/01402c90d54a255f99a343fa4e14422ca9b008ff/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
         - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/rzladitya/Coursera/blob/01402c90d54a255f99a343fa4e14422ca9b008ff/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
   
-  - [Week 3]()
-      - [Practice quiz : Advice for Applying Machine Learning]()    
-      - [Practice quiz : Bias and Variance]()
-      - [Practice quiz : Machine Learning Development Process]()
-      - [Programming Assignment]()
-          - [Advice for Applied Machine Learning]()
+  - [Week 3](https://github.com/rzladitya/Coursera/tree/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3)
+      - [Practice quiz : Advice for Applying Machine Learning](https://github.com/rzladitya/Coursera/tree/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning)    
+      - [Practice quiz : Bias and Variance](https://github.com/rzladitya/Coursera/tree/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3/practice-quiz-bias-and-variance)
+      - [Practice quiz : Machine Learning Development Process](https://github.com/rzladitya/Coursera/tree/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3/practice-quiz-machine-learning-development-process)
+      - [Programming Assignment](https://github.com/rzladitya/Coursera/tree/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1)
+          - [Advice for Applied Machine Learning](https://github.com/rzladitya/Coursera/blob/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1/C2_W3_Assignment.ipynb)
   
   - [Week 4]()
       - [Practice quiz : Decision Trees]()
