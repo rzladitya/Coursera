@@ -84,12 +84,12 @@ Selamat datang di repositori ini! Repositori ini berisi kumpulan-kumpulan kursus
       - [Programming Assignment](https://github.com/rzladitya/Coursera/tree/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1)
           - [Advice for Applied Machine Learning](https://github.com/rzladitya/Coursera/blob/b0757627f1421b421c1305013d8a27eea60109c9/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week3/C2W3A1/C2_W3_Assignment.ipynb)
   
-  - [Week 4]()
-      - [Practice quiz : Decision Trees]()
-      - [Practice quiz : Decision Trees Learning]()
-      - [Practice quiz : Decision Trees Ensembles]()
-      - [Programming Assignment]()
-          - [Decision Trees]()
+  - [Week 4](https://github.com/rzladitya/Coursera/tree/201d1d9ef5a2877d39cd41ff17aa555d2cb0f2b6/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week4)
+      - [Practice quiz : Decision Trees](https://github.com/rzladitya/Coursera/tree/201d1d9ef5a2877d39cd41ff17aa555d2cb0f2b6/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-trees)
+      - [Practice quiz : Decision Trees Learning](https://github.com/rzladitya/Coursera/tree/201d1d9ef5a2877d39cd41ff17aa555d2cb0f2b6/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-tree-learning)
+      - [Practice quiz : Decision Trees Ensembles](https://github.com/rzladitya/Coursera/tree/201d1d9ef5a2877d39cd41ff17aa555d2cb0f2b6/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-tree-ensembles)
+      - [Programming Assignment](https://github.com/rzladitya/Coursera/tree/201d1d9ef5a2877d39cd41ff17aa555d2cb0f2b6/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
+          - [Decision Trees](https://github.com/rzladitya/Coursera/blob/201d1d9ef5a2877d39cd41ff17aa555d2cb0f2b6/Machine-Learning-Specialization-Coursera/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
   
 ### Kursus 3: Nama Kursus 3
 - [Subkursus 3.1](link_ke_subkursus3.1)
